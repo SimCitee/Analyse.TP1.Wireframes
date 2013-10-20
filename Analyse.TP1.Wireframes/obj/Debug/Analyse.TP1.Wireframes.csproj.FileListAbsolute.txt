@@ -1,0 +1,10 @@
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\bin\Debug\Analyse.TP1.Wireframes.exe.config
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\bin\Debug\Analyse.TP1.Wireframes.exe
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\bin\Debug\Analyse.TP1.Wireframes.pdb
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\obj\Debug\Analyse.TP1.Wireframes.csprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\obj\Debug\Analyse.TP1.Wireframes.Form1.resources
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\obj\Debug\Analyse.TP1.Wireframes.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\obj\Debug\Analyse.TP1.Wireframes.csproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\obj\Debug\Analyse.TP1.Wireframes.exe
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\obj\Debug\Analyse.TP1.Wireframes.pdb
+c:\users\simon\documents\visual studio 2013\Projects\Analyse.TP1.Wireframes\Analyse.TP1.Wireframes\obj\Debug\Analyse.TP1.Wireframes.TypeSupport.resources
